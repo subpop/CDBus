@@ -3,5 +3,5 @@ import PackageDescription
 
 let package = Package(
     name: "CDBus",
-    pkgConfig: "dbus-1.0"
+    pkgConfig: "dbus-1"
 )
